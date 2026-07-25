@@ -56,7 +56,7 @@
         border: '2px solid #1e1e2e',
       }}>
         <img
-          src="https://github.com/ilyamiro.png"
+          src="https://avatars.githubusercontent.com/u/241539765?v=4&size=64"
           style={{
             width: '70px',
             height: '70px',
