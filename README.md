@@ -3,7 +3,7 @@
 <!-- Header Banner SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Ucon%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### 🛡️ Cybersecurity & Cloud Security Enthusiast
+### 🛡️ Cybersecurity Trainer
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -15,10 +15,9 @@
 ---
 
 **⚡ About Me**
-- 🔭 Lagi fokus ngedalemin **Cloud Security** & **Cyber Security**.
-- 🛠️ Hobi ngoding security tools, script automation, & eksplorasi cloud infrastructure.
-- 🎓 Background Software Engineering (RPL).
-- 💬 Tanya-tanya seputar: Python, Linux, Networking, & Cloud Security.
+- 🔭 Lagi fokus belajar seputar **Cyber Security**.
+- 🛠️ Hobi ngoding security tools, script automation, dan pemahaman program keamanan.
+- 💬 Tanya-tanya seputar: Python, Linux, & Networking.
 
 ---
 
@@ -27,7 +26,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,git,github,vscode,js,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,git,github,vscode&perline=6" />
 </a>
 
 </div>
