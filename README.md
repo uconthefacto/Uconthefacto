@@ -3,11 +3,11 @@
 <!-- Header Banner SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Ucon%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### 🛡️ Cybersecurity Trainer
+### 🛡️ Cybersecurity Student
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cyber+Security+%26+Cloud+Security;Software+Engineering+Background;Building+%26+Securing+Cloud+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Cyber+Security+%7C+Reverse+Engineering;Malware+Analysis+%26+Binary+Analysis;Decompiling%2C+Debugging+%26+Security+Research" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@
 **⚡ About Me**
 - 🔭 Lagi fokus belajar seputar **Cyber Security**.
 - 🛠️ Hobi ngoding security tools, script automation, dan pemahaman program keamanan.
-- 💬 Tanya-tanya seputar: Python, Linux, & Networking.
+- 💬 Tanya-tanya seputar: C/C++, Python, Linux
 
 ---
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,git,github,vscode&perline=6" />
+  <img src=https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github,vscode&perline=5" />
 </a>
 
 </div>
@@ -38,8 +38,8 @@
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Uconthefacto&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uconthefacto&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
