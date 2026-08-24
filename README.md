@@ -16,6 +16,8 @@
 
 **⚡ About Me**
 - 🔭 Lagi fokus belajar seputar **Cyber Security**.
+- Masih pelajar
+- lagi suka ngulik linux
 - 🛠️ Hobi ngoding security tools, script automation, dan pemahaman program keamanan.
 - 💬 Tanya-tanya seputar: C/C++, Python, Linux
 
