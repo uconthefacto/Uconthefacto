@@ -3,7 +3,7 @@
 <!-- Header Banner SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Ucon%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### 🛡️ Cybersecurity Student
+### 🛡️ IT Tech Student
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
