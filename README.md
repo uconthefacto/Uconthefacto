@@ -15,10 +15,10 @@
 ---
 
 **⚡ About Me**
-- 🔭 Lagi fokus belajar seputar **Cyber Security**.
+- 🔭 Lagi fokus belajar seputar **Reverse Engineering**.
 - Masih pelajar
 - lagi suka ngulik linux
-- 🛠️ Hobi ngoding security tools, script automation, dan pemahaman program keamanan.
+- 🛠️ Hobi bongkar kodingan, script automation, dan pemahaman program keamanan.
 - 💬 Tanya-tanya seputar: C/C++, Python, Linux
 
 ---
